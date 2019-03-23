@@ -64,7 +64,7 @@
     "expect": "^24.1.0",
     "mocha": "^6.0.0",
     "standard-version": "^5.0.0",
-    "uglify-js": "^3.0.27"
+    "uglify-js": "^3.5.2"
   },
   "config": {
     "commitizen": {
