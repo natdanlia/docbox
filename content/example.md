@@ -8,7 +8,7 @@ and remove different wobbles at a low wibble price.
 Lists all wobbles for a particular account.
 
 ```endpoint
-GET /wobbles/v1/{username} wobbles:read
+GET /wobbles/v1/{username}
 ```
 
 #### Example request
