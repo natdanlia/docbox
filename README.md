@@ -40,10 +40,10 @@ We care about the ease of writing documentation. Docbox comes with batteries inc
 To run the site locally:
 
 1. Clone this repository
-	2. `git clone https://github.com/tmcw/docbox.git`
-2. `npm install`
-3. `npm start`
-4. Open http://localhost:9966/
+2. `git clone https://github.com/tmcw/docbox.git`
+3. `npm install`
+4. `npm start`
+5. Open http://localhost:9966/
 
 ## Tests
 
@@ -52,9 +52,9 @@ Tests cover both the source code of Docbox as well as the content in the `conten
 To run tests:
 
 1. Clone this repository
-	2. `git clone https://github.com/tmcw/docbox.git`
-2. `npm install`
-3. `npm test`
+2. `git clone https://github.com/tmcw/docbox.git`
+3. `npm install`
+4. `npm test`
 
 
 ## Deployment
@@ -62,9 +62,9 @@ To run tests:
 The `npm run build` command builds a `bundle.js` file that contains all the JavaScript code and content needed to show the site, and creates an `index.html` file that already contains the site content. Note that this _replaces_ the existing `index.html` file, so it's best to run this only when deploying the site and to undo changes to `index.html` if you want to keep working on content.
 
 1. Clone this repository
-	2. `git clone https://github.com/tmcw/docbox.git`
-2. `npm install`
-3. `npm run build`
+2. `git clone https://github.com/tmcw/docbox.git`
+3. `npm install`
+4. `npm run build`
 
 ---
 
